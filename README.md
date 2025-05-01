@@ -1,3 +1,3 @@
 # cefas-contas
 
-1 commit per day?
+Resolving some beecrowd's problems in free time
